@@ -1,5 +1,7 @@
 # genetic_programing
-Lib with genetic programing
+Draft with genetic programing to fit functions
 
-Data used in example from :
+genetic.py - file with object to improve 
+
+Data used in example 2 from :
 https://www.kaggle.com/competitions/tabular-playground-series-sep-2022
